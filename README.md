@@ -1,6 +1,6 @@
 # typescript-review
 
-##illustrating de use of typescript including, classes, variables and functions
+## illustrating de use of typescript including, classes, variables and functions
 
 ## pre requisites
 -Node.js
